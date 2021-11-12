@@ -1,0 +1,24 @@
+{
+  "name": "my-first-project",
+  "version": "1.0.0",
+  "description": "Prmo progetto con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Excellence-School-2/my-first-node-prog.git"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "Vanessa Palummo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Excellence-School-2/my-first-node-prog/issues"
+  },
+  "homepage": "https://github.com/Excellence-School-2/my-first-node-prog#readme"
+}
