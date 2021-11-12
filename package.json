@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Excellence-School-2/my-first-node-prog/issues"
   },
-  "homepage": "https://github.com/Excellence-School-2/my-first-node-prog#readme"
+  "homepage": "https://github.com/Excellence-School-2/my-first-node-prog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
